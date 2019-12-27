@@ -66,6 +66,11 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+{{% /alert %}} -->
+
+Heming Wang and DeLiang Wang, "Time Frequency Loss For CNN Based Speech Super-resolution", submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020.
+
+
+Heming Wang, Richard Mann, and Edward R. Vrscay, "A Diffusion-Based Two-Dimensional Empirical Mode Decomposition Algorithm for Image Analysis." International Conference Image Analysis and Recognition. Springer, Cham, 2018.

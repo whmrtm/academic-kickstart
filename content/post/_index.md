@@ -12,3 +12,19 @@ header:
   caption: ""
   image: ""
 ---
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/373506185&amp;color=%2324241a&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+
+
+阶段性忙完了，趁着假期来搞点副业。
+
+第一首比较完整的曲子(需翻墙)，做的很粗糙。贝司直接拿三角波做的哈哈。
+
+DAW: Reaper
+
+Piano: Additive Key
+
+Chord: TAL NoiseMaker
+
+Chorus: Reaper Synthesizer
+
+Bass: Reaper Synthesizer
